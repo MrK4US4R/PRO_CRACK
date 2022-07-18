@@ -8,7 +8,7 @@
 
 # Installation
 
-```
+
 
 - `pkg update`
 
@@ -34,17 +34,17 @@
 
 - `git clone https://github.com/MrK4US4R/PRO_CRACK`
 
-```
+
 
 # Run Script
 
-```
+
 
 - `cd PRO_CRACK`
 
 - `python PRO_CRACK.py`
 
-```
+
 
 
 
