@@ -6,45 +6,49 @@
 
 ##### Respect MrK4US4R
 
-##### INSTALLATION
+# Installation
 
 ```
 
-💁 pkg update
+- `pkg update`
 
-💁 pkg upgrade 
+- `pkg upgrade`
 
-💁pkg install git
+- `pkg install git`
 
-💁 pkg install python
+- `pkg install python`
 
-💁 pkg  install python2
+- `pkg  install python2`
 
-💁 pip2 install requests
+- `pip2 install requests`
 
-💁 pip2 install requirements
+- `pip2 install requirements`
 
-💁 pip2 install mechanize
+- `pip2 install mechanize`
 
-💁 pip install rich
+- `pip install rich`
 
-💁 pip install bs4
+- `pip install bs4`
 
-💁 rm -rf PUBLIC_CLONE
+- `rm -rf PRO_CRACK`
 
-💁 git clone https://github.com/MrK4US4R/PUBLIC_CLONE
-
-
-```
-
-##### RUN SCRIPT
+- `git clone https://github.com/MrK4US4R/PRO_CRACK`
 
 ```
 
-💁 cd PUBLIC_CLONE
-
-💁 python PUBLIC_CLONE.py
+# Run Script
 
 ```
 
-##### LATEST VERSION. PLEASE TRY YOURSELF
+- `cd PRO_CRACK`
+
+- `python PRO_CRACK.py`
+
+```
+
+
+
+
+
+
+
